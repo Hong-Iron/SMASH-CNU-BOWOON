@@ -1,0 +1,95 @@
+{
+  "code": "CNU-BOWOON",
+  "title": "SMASH CNU BOWOON",
+  "school": "충남대",
+  "fullName": "충남대학교",
+  "campusName": "충남대학교 보운캠퍼스",
+  "tagline": "충남대를 부셔 (시험기간 스트레스 해소)",
+  "description": "충남대학교 보운캠퍼스를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 충남대학교 보운캠퍼스 3D 화면과 SMASH CNU BOWOON 제목",
+  "url": "https://hong-iron.github.io/SMASH-CNU-BOWOON/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 817655950
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        36.3164518,
+        127.4117503
+      ],
+      "n": "대전충청의료재활센터, 권역류마티스및퇴행성관절염센터",
+      "why": "학교 건물 아님 — 캠퍼스 경계 밖에 있는 충남대학교병원의 대전충청권역 의료재활센터(병원 건물)라서 학교 건물이 아니다."
+    },
+    {
+      "at": [
+        36.3163408,
+        127.4128853
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 캠퍼스 경계 밖 의료재활센터 주차 건물(태양광 지붕)의 동쪽 끝에 붙은 이름 없는 조각이라 학교 건물이 아니다."
+    }
+  ],
+  "look": {
+    "간호대학": {
+      "style": "concrete",
+      "wall": "#cfc2b5",
+      "glass": "#566f73",
+      "frame": "#8c9197"
+    },
+    "의행관": {
+      "style": "brick",
+      "wall": "#85706a",
+      "glass": "#3a3f42",
+      "frame": "#e3e4e4"
+    },
+    "의과대학도서관": {
+      "style": "brick",
+      "wall": "#6e605a",
+      "glass": "#3e4850",
+      "frame": "#c8cacb"
+    },
+    "진료실기교육센터": {
+      "style": "brick",
+      "wall": "#93654f",
+      "glass": "#3f5a58",
+      "frame": "#d8d4cc"
+    },
+    "의과대생활관": {
+      "style": "tan",
+      "wall": "#a99a8c",
+      "glass": "#3f4a55",
+      "frame": "#a85a3e",
+      "roof": "#8b8d90",
+      "hip": true
+    },
+    "전임상실험센터": {
+      "style": "concrete",
+      "wall": "#b5bcc2",
+      "glass": "#4d7480",
+      "frame": "#c49a55"
+    },
+    "동물생태연구동": {
+      "style": "brick",
+      "wall": "#d8b48a",
+      "glass": "#4f6b62",
+      "frame": "#eeeeea"
+    },
+    "의과대학": {
+      "style": "brick",
+      "wall": "#76645e",
+      "glass": "#4a5560",
+      "frame": "#c4c7c9"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
